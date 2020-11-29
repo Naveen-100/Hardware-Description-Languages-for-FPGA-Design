@@ -1,0 +1,176 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Eaac2m1p1_tb
+Z0 w1573285870
+Z1 DPx4 ieee 16 std_logic_textio 0 22 V5TSK`;aJKC<l]CEg1>mz1
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z5 dC:/Modeltech_pe_edu_10.4a/Coursera/week1/AAC2M1P1
+Z6 8C:/Modeltech_pe_edu_10.4a/Coursera/week1/AAC2M1P1/AAC2M1P1_tb.vhdp
+Z7 FC:/Modeltech_pe_edu_10.4a/Coursera/week1/AAC2M1P1/AAC2M1P1_tb.vhdp
+l0
+L52
+V?G6LfKUn]nf7n0cC;9^L13
+!s100 o_c;zO@o9]4[Q2AMzCkSz0
+Z8 OP;C;10.4a;61
+32
+!s110 1600753284
+!i10b 1
+Z9 !s108 1600753284.000000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/Coursera/week1/AAC2M1P1/AAC2M1P1_tb.vhdp|
+Z11 !s107 C:/Modeltech_pe_edu_10.4a/Coursera/week1/AAC2M1P1/AAC2M1P1_tb.vhdp|
+!i113 1
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 11 aac2m1p1_tb 0 22 ?G6LfKUn]nf7n0cC;9^L13
+l135
+L61
+V1H:`jQWW_=GE6zbFUZ]3V3
+!s100 CLJOJMjV1njnJ`BO3l@<d0
+R8
+32
+!s110 1600753285
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Eaac2m1p3_tb
+Z14 w1590602291
+R1
+Z15 DPx4 ieee 20 numeric_bit_unsigned 0 22 Uo=_FXbo@j4IMIikZfQ=:3
+R2
+R3
+R4
+R5
+Z16 8C:/Modeltech_pe_edu_10.4a/Coursera/week1/AAC2M1P3/AAC2M1P3_tb.vhdp
+Z17 FC:/Modeltech_pe_edu_10.4a/Coursera/week1/AAC2M1P3/AAC2M1P3_tb.vhdp
+l0
+L54
+Va9LPb:DCM3XYK5GD1z_^j3
+!s100 CVRz_NC>c:Df^6PL7[bX21
+R8
+32
+!s110 1600754274
+!i10b 1
+Z18 !s108 1600754274.000000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/Coursera/week1/AAC2M1P3/AAC2M1P3_tb.vhdp|
+Z20 !s107 C:/Modeltech_pe_edu_10.4a/Coursera/week1/AAC2M1P3/AAC2M1P3_tb.vhdp|
+!i113 1
+R12
+R13
+Abehavioral
+R1
+R15
+R2
+R3
+R4
+DEx4 work 11 aac2m1p3_tb 0 22 a9LPb:DCM3XYK5GD1z_^j3
+l136
+L62
+V;;08GV`_hbl@^>jlEDHQa3
+!s100 QO]TXH6QU7Tb=IJEA?5Y?1
+R8
+32
+!s110 1600754275
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
+Ecomparator2
+Z21 w1600753254
+R3
+R4
+R5
+Z22 8C:/Modeltech_pe_edu_10.4a/Coursera/week1/AAC2M1P1/AAC2M1P1.vhd
+Z23 FC:/Modeltech_pe_edu_10.4a/Coursera/week1/AAC2M1P1/AAC2M1P1.vhd
+l0
+L40
+VcAU[Bo=Gi:4lQjaKDO7421
+!s100 jbXW<kjD[_>^?bUXljbbi2
+R8
+32
+Z24 !s110 1600753259
+!i10b 1
+Z25 !s108 1600753259.000000
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/Coursera/week1/AAC2M1P1/AAC2M1P1.vhd|
+Z27 !s107 C:/Modeltech_pe_edu_10.4a/Coursera/week1/AAC2M1P1/AAC2M1P1.vhd|
+!i113 1
+R12
+R13
+Abehv
+R3
+R4
+DEx4 work 11 comparator2 0 22 cAU[Bo=Gi:4lQjaKDO7421
+l45
+L44
+Vzzg8DO3ICk24U]Te[ZGn53
+!s100 m_gQkAe:`Z0<O174e?mAP2
+R8
+32
+R24
+!i10b 1
+R25
+R26
+R27
+!i113 1
+R12
+R13
+Efind_errors
+Z28 w1600754267
+R3
+R4
+R5
+Z29 8C:/Modeltech_pe_edu_10.4a/Coursera/week1/AAC2M1P3/AAC2M1P3.vhd
+Z30 FC:/Modeltech_pe_edu_10.4a/Coursera/week1/AAC2M1P3/AAC2M1P3.vhd
+l0
+L45
+Vf1Y`gR@;1jhNSaKV670VA3
+!s100 fV=JR@m6O_90_Cd2ZNU^i3
+R8
+32
+Z31 !s110 1600754271
+!i10b 1
+Z32 !s108 1600754271.000000
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Modeltech_pe_edu_10.4a/Coursera/week1/AAC2M1P3/AAC2M1P3.vhd|
+Z34 !s107 C:/Modeltech_pe_edu_10.4a/Coursera/week1/AAC2M1P3/AAC2M1P3.vhd|
+!i113 1
+R12
+R13
+Anot_good
+R3
+R4
+DEx4 work 11 find_errors 0 22 f1Y`gR@;1jhNSaKV670VA3
+l52
+L51
+Vi[l=4HU=[O<an55e38V9a1
+!s100 Jm:_M41gUhG2Ezb:9lVbb3
+R8
+32
+R31
+!i10b 1
+R32
+R33
+R34
+!i113 1
+R12
+R13

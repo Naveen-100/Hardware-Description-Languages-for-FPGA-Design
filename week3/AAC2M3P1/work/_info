@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples/tutorials/vhdl/projects
+vAAC2M3P1_tb
+!s110 1602580959
+!i10b 1
+!s100 `_?0lU:A_VSW7]Z0h<_Ea3
+I]5FcG]MlJe?0<UMnFD`V=3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Modeltech_pe_edu_10.4a/Coursera/week3/AAC2M3P1
+w1573385804
+8C:/Modeltech_pe_edu_10.4a/Coursera/week3/AAC2M3P1/AAC2M3P1_tb.vp
+FC:/Modeltech_pe_edu_10.4a/Coursera/week3/AAC2M3P1/AAC2M3P1_tb.vp
+L0 61
+Z2 OP;L;10.4a;61
+r1
+!s85 0
+31
+!s108 1602580958.000000
+!s107 C:/Modeltech_pe_edu_10.4a/Coursera/week3/AAC2M3P1/AAC2M3P1_tb.vp|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/Coursera/week3/AAC2M3P1/AAC2M3P1_tb.vp|
+!s101 -O0
+!i113 1
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+n@a@a@c2@m3@p1_tb
+vComparator2
+!s110 1602581066
+!i10b 1
+!s100 QfL?:@_aTa@Y24:B3?R_61
+Ib59MEYm35U`A1U;a^@LD>1
+R0
+R1
+w1602581062
+8C:/Modeltech_pe_edu_10.4a/Coursera/week3/AAC2M3P1/AAC2M3P1.v
+FC:/Modeltech_pe_edu_10.4a/Coursera/week3/AAC2M3P1/AAC2M3P1.v
+L0 38
+R2
+r1
+!s85 0
+31
+!s108 1602581066.000000
+!s107 C:/Modeltech_pe_edu_10.4a/Coursera/week3/AAC2M3P1/AAC2M3P1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Modeltech_pe_edu_10.4a/Coursera/week3/AAC2M3P1/AAC2M3P1.v|
+!s101 -O0
+!i113 1
+R3
+n@comparator2

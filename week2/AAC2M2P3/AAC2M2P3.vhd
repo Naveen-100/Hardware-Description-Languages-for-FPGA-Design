@@ -1,0 +1,52 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity FSM is
+port (In1: in std_logic;
+   RST: in std_logic; 
+   CLK: in std_logic;
+   Out1 : inout std_logic);
+end FSM;
+architecture behv of FSM is
+constant A : std_logic_vector(1 downto 0):="00";
+constant B : std_logic_vector(1 downto 0):="01";
+constant C : std_logic_vector(1 downto 0):="10";
+signal current_state,next_state : std_logic_vector(1 downto 0);
+begin
+start :process(RST,CLK)
+begin
+if(RST='1') then current_state<=A;
+elsif(rising_edge(CLK) and RST='0') then current_state <= next_state;
+end if;
+end process start;
+main : process(In1,current_state)
+begin
+case(current_state) is 
+when A => 
+if ( In1 = '1') then 
+next_state <= B;
+Out1 <= '0';
+else 
+next_state <= A;
+Out1 <= '0';
+end if;
+when B => 
+if ( In1 = '1') then
+next_state <= B;
+Out1 <= '0';
+else 
+next_state <= C;
+Out1 <= '1';
+end if;
+when C => 
+if ( In1 = '1') then
+next_state <= A;
+Out1 <= '0';
+else
+next_state <= C;
+ Out1 <= '1';
+end if;
+when others => next_state <= A;
+end case; 
+end process main;
+end behv;
